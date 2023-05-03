@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp-tdd", "cpp-tdd\cpp-tdd.vcxproj", "{CB8E83B6-E6A3-471F-BDCF-7869CC835271}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "test\test.vcxproj", "{085FA8EB-CB22-4593-9FC1-5DE72F15D24A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{CB8E83B6-E6A3-471F-BDCF-7869CC835271}.Release|x64.Build.0 = Release|x64
 		{CB8E83B6-E6A3-471F-BDCF-7869CC835271}.Release|x86.ActiveCfg = Release|Win32
 		{CB8E83B6-E6A3-471F-BDCF-7869CC835271}.Release|x86.Build.0 = Release|Win32
+		{085FA8EB-CB22-4593-9FC1-5DE72F15D24A}.Debug|x64.ActiveCfg = Debug|x64
+		{085FA8EB-CB22-4593-9FC1-5DE72F15D24A}.Debug|x64.Build.0 = Debug|x64
+		{085FA8EB-CB22-4593-9FC1-5DE72F15D24A}.Debug|x86.ActiveCfg = Debug|Win32
+		{085FA8EB-CB22-4593-9FC1-5DE72F15D24A}.Debug|x86.Build.0 = Debug|Win32
+		{085FA8EB-CB22-4593-9FC1-5DE72F15D24A}.Release|x64.ActiveCfg = Release|x64
+		{085FA8EB-CB22-4593-9FC1-5DE72F15D24A}.Release|x64.Build.0 = Release|x64
+		{085FA8EB-CB22-4593-9FC1-5DE72F15D24A}.Release|x86.ActiveCfg = Release|Win32
+		{085FA8EB-CB22-4593-9FC1-5DE72F15D24A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
